@@ -1,3 +1,5 @@
+testing some site building using docpad and the new kitchensink skeleton
+
 # [The Kitchensink Skeleton](https://github.com/balupton/kitchensink.docpad) for [DocPad](https://github.com/balupton/docpad)
 
 ## Give it a go
